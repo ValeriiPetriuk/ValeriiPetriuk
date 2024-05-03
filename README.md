@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+### Hi 👋
 
 📫 How to reach me: 
 
