@@ -2,7 +2,7 @@
 
 📫 How to reach me: 
 
-![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&link=https%3A%2F%2Ft.me%2Fxfvx3)
+![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&link=https%3A%2F%2Ft.me%2Fxvfx5)
 ![Static Badge](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white&link=vpetruk257%40gmail.com)
 
 
